@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Hongliu Cao  
+# 👋 Hi, I'm Hongliu Cao, you can also call me Leo, or 6 (pronounced as liu in Chinese)  
 **AI Researcher | Traveler | Paraglider | Scuba Diver |  Hiker | Foodie | Wine Lover**
 
 ---
