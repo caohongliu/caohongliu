@@ -93,7 +93,7 @@ My research spans:
 - **Amadeus Top Inventor 2025**
 - **Amadeus Top Inventor 2024**
 - **Amadeus Top Inventor 2023**
-- **Finalist of Inclusive AI Awards, Cannes Neurons Awards**
+- **Finalist of Inclusive AI Awards, Cannes Neurons Awards 2023**
 - **Amadeus Top Inventor 2022**
 - **Amadeus Top Inventor 2021**
 ---
