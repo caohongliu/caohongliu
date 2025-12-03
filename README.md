@@ -25,8 +25,8 @@ My research spans:
 ## 🔍 Research Highlights
 <details>
 <summary>Bias & Fairness in AI</summary>
-- Travel Bias Benchmark for QA (To be OpenSourced soon)
-- [Writing Style Matters: An Examination of Bias and Fairness in Information Retrieval Systems, In Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining (WSDM 25)](https://dl.acm.org/doi/pdf/10.1145/3701551.3703514)
+- Travel Bias Benchmark for QA (To be OpenSourced soon)  
+- [Writing Style Matters: An Examination of Bias and Fairness in Information Retrieval Systems, In Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining (WSDM 25)](https://dl.acm.org/doi/pdf/10.1145/3701551.3703514)  
 - [Recent advances in text embedding: A Comprehensive Review of Top-Performing Methods on the MTEB Benchmark, arXiv preprint arXiv:2406.01607 (2024)](https://arxiv.org/abs/2406.01607)
 - [Towards Fair AI: Detecting Socio-Economic Bias in Large Language Models, SophiaSummit 2024](https://univ-cotedazur.eu/events/sophia-summit/salma-abdou-hongliu-cao)
 - [Inclusive normalization of face images to passport format, International Joint Conference on Neural Networks (IJCNN 2023)](https://arxiv.org/abs/2312.14544)
