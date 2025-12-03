@@ -52,6 +52,40 @@ My research spans:
 
 </details>
 
+
+
+<details>
+<summary>Metric & Multi-View Learning</summary>
+
+- [Multi-View User Representation Learning for User Matching Without Personal Information (IJCNN 2023)](https://arxiv.org/abs/2312.14533)  
+- [A Novel Random Forest Dissimilarity Measure for Multi-View Learning (ICPR 2020)](https://arxiv.org/abs/2007.02572)  
+- [Random Forest for Dissimilarity-Based Multi-View Learning (Handbook of Pattern Recognition and Computer Vision, 2020)](https://arxiv.org/abs/2007.08377)  
+- [PhD Thesis: Random Forest for Dissimilarity-Based Multi-View Learning: Application to Radiomics (2019)](https://espace.etsmtl.ca/id/eprint/2496/1/CAO_Hongliu.pdf)  
+- [Random Forest Dissimilarity-Based Multi-View Learning for Radiomics Application (Pattern Recognition 2019)](https://www.sciencedirect.com/science/article/abs/pii/S003132031830400X)  
+- [Dynamic Voting in Multi-View Learning for Radiomics Applications (S+SSPR 2018)](https://arxiv.org/abs/1806.07686)  
+- [Dissimilarity-Based Representation for Radiomics Applications (ICPRAI 2018)](https://arxiv.org/abs/1803.04460)  
+
+</details>
+
+
+
+<details>
+<summary>AI in Industry</summary>
+
+- [Diverse and Private Synthetic Datasets Generation for RAG Evaluation: A Multi-Agent Framework (ECAI 2025)](https://arxiv.org/abs/2508.18929)  
+- [Multi-Agent LLM Judge: Automatic Personalized LLM Judge Design for Evaluating Natural Language Generation Applications (ECAI 2025)](https://arxiv.org/abs/2504.02867)  
+- [How LLMs Are Changing the Way We Build LLMs (Platform Summit 2025)](https://www.youtube.com/watch?v=bcfrPj5r-Jw&list=PLd2MPdlXKO10lBJB3OfoI_7O3OGSVkofI&index=19)  
+- Multi-Agent System for Large-Scale Swagger Extension *(Patent APP, 2025)*  
+- Modeling Airline Disruptions to Predict Optimization Complexity and Solution Shape *(Agifors AirOps 2025)*  
+- Computing Resource Optimization Engine Based on Contextual Linkage in a Knowledge Graph *(US Patent App. 18/084,610, 2024)*  
+- DEVICE, SYSTEM AND METHOD FOR ADJUSTING OPERATION OF A PROGRAMMATIC APPLICATION USING AN ENSEMBLE OF DECISION TREES *(Patent APP, 2024)*  
+- User Representation for Matching *(US Patent App. 18/380,370, 2024)*  
+- Dynamic Selection of Algorithms *(US Patent App. 18/528,886, 2024)*  
+- Data Enhancement System and Method *(US Patent App. 18/528,912, 2024)*  
+- [Destination Similarity Based on Implicit User Interest (arXiv 2021)](https://arxiv.org/abs/2102.06687)  
+
+</details>
+
 ---
 
 ## 🌐 Beyond AI
