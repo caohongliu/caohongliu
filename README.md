@@ -97,8 +97,6 @@ My research spans:
 - **Amadeus Top Inventor 2022**
 - **Amadeus Top Inventor 2021**
 ---
-**
----
 
 ## 🌐 Beyond AI
 - **Scuba Diving**: 50+ dives across 4 continents (sharks in Fiji, wild waves in Cabo Verde).  
