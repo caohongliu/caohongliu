@@ -4,11 +4,12 @@
 
 ---
 
-## 🌍 Why Do I Travel?
-As an AI researcher and globe-trotter who has stamped his passport in ~80 countries, I often get asked:  
-*"Why do you travel?"*  
-From diving with sharks in Fiji to sipping natural wine in Corsica, every journey is a story. Travel, like AI, is about curiosity, discovery, and understanding complexity. If I ever start another PhD, it might be on the psychology of travel—powered by AI.
-
+## 🌍 Who Am I?
+As an AI researcher and globe-traveller who has stamped my passport in ~80 countries:
+- I trek across landscapes of optimisation, and across glaciers in the Arctic
+- I dive deep into bias and fairness in AI, and occasionally into the Pacific with sharks,
+- I surf the waves of algorithmic complexity, and nice waves in Gold Coast
+- I sail through semantic and similarity spaces, and across the Mediterranean chasing sunsets
 ---
 
 ## 🧠 What I Do
