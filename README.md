@@ -26,7 +26,7 @@ My research spans:
 <details>
 <summary>Bias & Fairness in AI</summary>
 
-- Writing Style Matters: An Examination of Bias and Fairness in Information Retrieval Systems, In Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining (WSDM 25)
+- [Writing Style Matters: An Examination of Bias and Fairness in Information Retrieval Systems, In Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining (WSDM 25)](https://dl.acm.org/doi/pdf/10.1145/3701551.3703514)
 - *Towards Fair AI* – Detecting socio-economic bias in LLMs (SophiaSummit 2024)  
 - *Multi-Agent LLM Judge* – Personalized evaluation for NLG (ECAI 2025)  
 </details>
