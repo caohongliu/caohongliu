@@ -87,7 +87,7 @@ My research spans:
 
 </details>
 
-**---
+---
 
 ## 🌐 Other Achievements
 - **Amadeus Top Inventor 2025**
