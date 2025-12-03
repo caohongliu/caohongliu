@@ -8,7 +8,7 @@ You can also call me Leo, or 6 (pronounced as liu in Chinese)
 ## 🌍 Who Am I?
 As an AI researcher and globe-traveller who has stamped my passport in ~80 countries:
 - I trek across landscapes of optimisation, and across glaciers in the Arctic
-- I dive deep into bias and fairness in AI, and occasionally into the Pacific with sharks,
+- I dive deep into bias and fairness in AI, and occasionally into the Pacific with sharks
 - I surf the waves of algorithmic complexity, and nice waves in Gold Coast
 - I sail through semantic and similarity spaces, and across the Mediterranean chasing sunsets
 ---
