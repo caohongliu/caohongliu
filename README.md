@@ -56,7 +56,7 @@ My research spans:
 
 
 <details>
-<summary>Metric & Multi-View Learning</summary>
+<summary>Similarity & Multi-View Learning</summary>
 
 - [Multi-View User Representation Learning for User Matching Without Personal Information (IJCNN 2023)](https://arxiv.org/abs/2312.14533)  
 - [A Novel Random Forest Dissimilarity Measure for Multi-View Learning (ICPR 2020)](https://arxiv.org/abs/2007.02572)  
