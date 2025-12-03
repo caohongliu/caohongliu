@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Hongliu Cao  
-**AI Researcher | Explorer | Storyteller**
+**AI Researcher | Traveler | Paraglider | Scuba Diver |  Hiker | Foodie | Wine Lover**
 
 ---
 
