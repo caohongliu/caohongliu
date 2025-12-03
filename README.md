@@ -15,9 +15,9 @@ As an AI researcher and globe-traveller who has stamped my passport in ~80 count
 ## 🧠 What I Do
 I design **trustworthy, efficient, and impactful AI systems** bridging academic rigor and industrial scale.  
 My research spans:
-- **Bias & Fairness in AI** – Making models equitable and transparent.
-- **Sustainable & Frugal AI** – Optimizing resources for real-world deployments.
-- **Metric & Similarity Learning** – Multi-view learning and information fusion.
+- **Bias & Fairness in AI** – Making models equitable and transparent including Computer Vision, Biometric systems, embedding models and LLMs.
+- **Sustainable & Frugal AI** – Optimizing resources for real-world deployments, reducing the carbon footprints and costs.
+- **Metric Learning & Information Fusion** – Exploring the similarity learning for Multi-view learning, human perceptions, etc.  
 - **AI in Industry** – Scalable solutions for travel, operations, and personalization.
 
 ---
@@ -26,7 +26,7 @@ My research spans:
 <details>
 <summary>Bias & Fairness in AI</summary>
 
-- *Writing Style Matters* – Bias in IR systems (WSDM 2025)  
+- Writing Style Matters: An Examination of Bias and Fairness in Information Retrieval Systems, In Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining (WSDM 25)
 - *Towards Fair AI* – Detecting socio-economic bias in LLMs (SophiaSummit 2024)  
 - *Multi-Agent LLM Judge* – Personalized evaluation for NLG (ECAI 2025)  
 </details>
