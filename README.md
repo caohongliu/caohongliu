@@ -38,42 +38,17 @@ My research spans:
 
 </details>
 
+
 <details>
 <summary>Sustainable & Frugal AI</summary>
-- [Semantic Adapter for Universal Text Embeddings:Diagnosing and Mitigating Negation Blindness to Enhance Universality, 28th European Conference on Artificial Intelligence (ECAI-2025)](https://arxiv.org/abs/2504.00584)
-- [Holistic analysis on the sustainability of Federated Learning lifecycle in real-world industrial settings, 28th European Conference on Artificial Intelligence (ECAI-2025)](https://arxiv.org/abs/2312.14628)
-- [EmbedSelect: AI-Driven Text Embedding Model Selector for Optimal Performance and Efficiency (OpenSource 2025)](https://pypi.org/project/EmbedSelection/)
-- METHOD AND SYSTEM FOR QUERY PROCESSING BASED ON QUERY COMPLEXITY, Patent APP, 2025
-- Real time & Sustainable Prompt and chat history compression, Patent APP, 2024
-- Explainable and guided search for sustainable and optimal travel solutions, Patent APP, 2024
-- [Improve the performance of transfer learning without fine-tuning using dissimilarity-based multi-view learning for breast cancer histology images, 15th International Conference on Image Analysis and Recognition ICIAR 2018](https://link.springer.com/chapter/10.1007/978-3-319-93000-8_88)
-</details>
 
-<details>
-<summary>Metric & Multi-View Learning</summary>
-- [Multi-View User Representation Learning for User Matching Without Personal Information, 2023 International Joint Conference on Neural Networks (IJCNN)](https://arxiv.org/abs/2312.14533)
-- [A Novel Random Forest Dissimilarity Measure for Multi-View Learning,  25th International Conference on Pattern Recognition (ICPR2020)](https://arxiv.org/abs/2007.02572)
-- [Random forest for dissimilarity-based multi-view learning, Handbook of Pattern Recognition and Computer Vision, 119-138, 2020](https://arxiv.org/abs/2007.08377)
-- [Phd thesis: Random forest for dissimilarity based multi-view learning: application to radiomics, 2019](https://espace.etsmtl.ca/id/eprint/2496/1/CAO_Hongliu.pdf)
-- [Random forest dissimilarity based multi-view learning for radiomics application, Pattern Recognition 88, 185-197, 2019](https://www.sciencedirect.com/science/article/abs/pii/S003132031830400X)
-- [Dynamic voting in multi-view learning for radiomics applications, S+SSPR 2018](https://arxiv.org/abs/1806.07686)
-- [Dissimilarity-based representation for radiomics applications, International Conference on Pattern Recognition and Artificial Intelligence, ICPRAI 2018](https://arxiv.org/abs/1803.04460)
-</details>
-
-<details>
-<summary>AI in Industry</summary>
-- [Diverse and private synthetic datasets generation for rag evaluation: A multi-agent framework, The European Workshop on Trustworthy AI at ECAI 2025](https://arxiv.org/abs/2508.18929)
-- [Multi-Agent LLM Judge: automatic personalized LLM judge design for evaluating natural language generation applications, Workshop on LLM-Based Agents for Intelligent Systems at ECAI 2025](https://arxiv.org/abs/2504.02867)
-- [How LLMs are changing the way we build LLMs, Platform Summit 2025 Stockholm](https://www.youtube.com/watch?v=bcfrPj5r-Jw&list=PLd2MPdlXKO10lBJB3OfoI_7O3OGSVkofI&index=19)
-- Multi-agent system for large scale swagger extension, Patent APP, 2025
-- Modeling Airline Disruptions In Order To Predict Optimization Complexity And Solution Shape,  Agifors AirOps 2025
-- Computing resource optimization engine based on contextual linkage in a knowledge graph, US Patent App. 18/084,610,  2024
-- DEVICE, SYSTEM AND METHOD FOR ADJUSTING OPERATION OF A PROGRAMMATIC APPLICATION USING AN ENSEMBLE OF DECISION TREES, Patent APP, 2024 
-- User representation for matching, US Patent App. 18/380,370, 2024
-- Dynamic selection of algorithms, US Patent App. 18/528,886, 2024
-- Data enhancement system and method, US Patent App. 18/528,912, 2024
-- [Destination similarity based on implicit user interest, arXiv preprint arXiv:2102.06687 (2021)](https://arxiv.org/abs/2102.06687)
-
+- [Semantic Adapter for Universal Text Embeddings: Diagnosing and Mitigating Negation Blindness to Enhance Universality (ECAI 2025)](https://arxiv.org/abs/2504.00584)  
+- [Holistic Analysis on the Sustainability of Federated Learning Lifecycle in Real-World Industrial Settings (ECAI 2025)](https://arxiv.org/abs/2312.14628)  
+- [EmbedSelect: AI-Driven Text Embedding Model Selector for Optimal Performance and Efficiency (OpenSource 2025)](https://pypi.org/project/EmbedSelection/)  
+- METHOD AND SYSTEM FOR QUERY PROCESSING BASED ON QUERY COMPLEXITY *(Patent APP, 2025)*  
+- Real-Time & Sustainable Prompt and Chat History Compression *(Patent APP, 2024)*  
+- Explainable and Guided Search for Sustainable and Optimal Travel Solutions *(Patent APP, 2024)*  
+- [Improve the Performance of Transfer Learning Without Fine-Tuning Using Dissimilarity-Based Multi-View Learning for Breast Cancer Histology Images (ICIAR 2018)](https://link.springer.com/chapter/10.1007/978-3-319-93000-8_88)  
 
 </details>
 
