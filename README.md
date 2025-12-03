@@ -4,7 +4,7 @@
 
 ---
 
-## 🌍 Why Do We Travel?
+## 🌍 Why Do I Travel?
 As an AI researcher and globe-trotter who has stamped his passport in ~80 countries, I often get asked:  
 *"Why do you travel?"*  
 From diving with sharks in Fiji to sipping natural wine in Corsica, every journey is a story. Travel, like AI, is about curiosity, discovery, and understanding complexity. If I ever start another PhD, it might be on the psychology of travel—powered by AI.
