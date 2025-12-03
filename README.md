@@ -74,9 +74,9 @@ My research spans:
 ---
 
 ## 📫 Connect
-[![Google Scholar](https://img.shields.io/badge/Scholar-Profile-blue)](https://scholar.google.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com)  
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--XXXX--XXXX-green)](https://orcid.org)  
+[![Google Scholar](https://img.shields.io/badge/Scholar-Profile-blue)](https://scholar.google.com](https://scholar.google.fr/citations?user=J08707gAAAAJ&hl=fr&authuser=1&oi=ao)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com](https://www.linkedin.com/in/hongliu-cao-77777997/recent-activity/all/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--XXXX--XXXX-green)](https://orcid.org](https://orcid.org/0000-0002-1326-8159)
 
 ---
 
