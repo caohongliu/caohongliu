@@ -88,8 +88,8 @@ My research spans:
 </details>
 
 
-<details>blogs & Others
-<summary></summary>
+<details>
+<summary>blogs & Others</summary>
 
 - [Enhancing Retrieval-Augmented Generation (RAG) Performance through Effective Documentation, 2024](https://medium.com/@caohongliu/enhancing-retrieval-augmented-generation-rag-performance-through-effective-documentation-86099508c111)
 
