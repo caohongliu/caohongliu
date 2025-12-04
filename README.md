@@ -87,7 +87,23 @@ My research spans:
 
 </details>
 
+
+<details>blogs & Others
+<summary></summary>
+
+- [Enhancing Retrieval-Augmented Generation (RAG) Performance through Effective Documentation, 2024](https://medium.com/@caohongliu/enhancing-retrieval-augmented-generation-rag-performance-through-effective-documentation-86099508c111)
+
+- [Why Ontology Is So Important I: Knowledge Hoarding, 2020](https://medium.com/@caohongliu/why-ontology-is-so-important-i-knowledge-hoarding-be1f9fb58504)
+
+- [Different Kinds of Knowledge Graphs and Their Use Cases, 2020](https://medium.com/@caohongliu/different-kinds-of-knowledge-graphs-and-their-use-cases-ff825d614c8d)
+
+- [Knowledge Graph: An Introduction for Beginners, 2020](https://medium.com/@caohongliu/knowledge-graph-an-introduction-for-beginners-c7ad82b5082a)
+
+</details>
+
 ---
+
+
 
 ## 🌐 Other Achievements
 - **Amadeus Top Inventor 2025**
