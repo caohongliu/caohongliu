@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Hongliu Cao 
-You can also call me Leo, or 6 (pronounced as liu in Chinese)  
+You can also call me Leo, or 6 (pronounced as liu in Chinese). Based in France.  
 **AI Researcher | Traveler | Paraglider | Scuba Diver |  Hiker | Foodie | Wine Lover**
 
 ---
@@ -92,7 +92,7 @@ My research spans:
 <summary>Other Contributions</summary>
 
 - [Represent Amadeus in contributing to the Sci4AI report on Green AI (in collaboration with the Green Software Foundation)](https://greensoftware.foundation/articles/sci-for-ai-workshop-report)
-- Contributed to drafting proposals for public funding from the German governme
+- Contributed to drafting proposals for public funding from the German government
 
   
 - [Enhancing Retrieval-Augmented Generation (RAG) Performance through Effective Documentation, 2024](https://medium.com/@caohongliu/enhancing-retrieval-augmented-generation-rag-performance-through-effective-documentation-86099508c111)
