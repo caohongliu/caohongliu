@@ -89,8 +89,12 @@ My research spans:
 
 
 <details>
-<summary>blogs & Others</summary>
+<summary>Other Contributions</summary>
 
+- [Represented Amadeus in contributing to the Sci4AI report on Green AI (in collaboration with the Green Software Foundation)](https://greensoftware.foundation/articles/sci-for-ai-workshop-report)
+- Contributed to drafting proposals for public funding from the German governme
+
+  
 - [Enhancing Retrieval-Augmented Generation (RAG) Performance through Effective Documentation, 2024](https://medium.com/@caohongliu/enhancing-retrieval-augmented-generation-rag-performance-through-effective-documentation-86099508c111)
 
 - [Why Ontology Is So Important I: Knowledge Hoarding, 2020](https://medium.com/@caohongliu/why-ontology-is-so-important-i-knowledge-hoarding-be1f9fb58504)
