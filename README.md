@@ -91,7 +91,7 @@ My research spans:
 <details>
 <summary>Other Contributions</summary>
 
-- [Represented Amadeus in contributing to the Sci4AI report on Green AI (in collaboration with the Green Software Foundation)](https://greensoftware.foundation/articles/sci-for-ai-workshop-report)
+- [Represent Amadeus in contributing to the Sci4AI report on Green AI (in collaboration with the Green Software Foundation)](https://greensoftware.foundation/articles/sci-for-ai-workshop-report)
 - Contributed to drafting proposals for public funding from the German governme
 
   
