@@ -75,7 +75,7 @@ My research spans:
 
 - [Diverse and Private Synthetic Datasets Generation for RAG Evaluation: A Multi-Agent Framework (ECAI 2025)](https://arxiv.org/abs/2508.18929)  
 - [Multi-Agent LLM Judge: Automatic Personalized LLM Judge Design for Evaluating Natural Language Generation Applications (ECAI 2025)](https://arxiv.org/abs/2504.02867)  
-- [How LLMs Are Changing the Way We Build LLMs (Platform Summit 2025)](https://www.youtube.com/watch?v=bcfrPj5r-Jw&list=PLd2MPdlXKO10lBJB3OfoI_7O3OGSVkofI&index=19)  
+- [How LLMs Are Changing the Way We Build APIs (Platform Summit 2025)](https://www.youtube.com/watch?v=bcfrPj5r-Jw&list=PLd2MPdlXKO10lBJB3OfoI_7O3OGSVkofI&index=19)  
 - Multi-Agent System for Large-Scale Swagger Extension *(Patent APP, 2025)*  
 - Modeling Airline Disruptions to Predict Optimization Complexity and Solution Shape *(Agifors AirOps 2025)*  
 - Computing Resource Optimization Engine Based on Contextual Linkage in a Knowledge Graph *(US Patent App. 18/084,610, 2024)*  
