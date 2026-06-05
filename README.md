@@ -17,8 +17,9 @@ As an AI researcher and globe-traveller who has stamped my passport in ~80 count
 I design **trustworthy, efficient, and impactful AI systems** bridging academic rigor and industrial scale.  
 My research spans:
 - **Bias & Fairness in AI** – Making models equitable and transparent including Computer Vision, Biometric systems, embedding models and LLMs.
-- **Sustainable & Frugal AI** – Optimizing resources for real-world deployments, reducing the carbon footprints and costs.
-- **Metric Learning & Information Fusion** – Exploring the similarity learning for Multi-view learning, human perceptions, etc.  
+- **Reliability & Safety** – Exposing hidden failure modes of LLM agents and building robust, trustworthy systems through procedure-aware evaluation.
+- **Sustainable & Frugal AI** – Optimizing resources for real-world deployments, reducing the carbon footprints and costs, and contributing to international green software standards.
+- **Similarity & Multi-View Learning** – Exploring similarity learning for multi-view learning, human perceptions, etc.
 - **AI in Industry** – Evaluations of LLMs and embeddings, Scalable solutions for travel, operations, and personalization.
 
 ---
