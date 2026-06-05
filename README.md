@@ -41,13 +41,13 @@ My research spans:
 
 <details>
 <summary>Reliability & Safety</summary>
+
 - [Beyond Task Completion: Revealing Corrupt Success in LLM Agents through Procedure-Aware Evaluation (ECML-PKDD 2026)](https://arxiv.org/abs/2603.03116)
 - [AgentFailureDiscovery: Open-source toolkit for discovering failure modes in LLM agents (OpenSource 2026)](https://github.com/AmadeusITGroup/AgentFailureDiscovery)
 - From Outcomes to Procedures: The Hidden Failure Modes of AI Agents *(Platform Summit 2026)*
-- Generating training and/or testing data of a face recognition system for improved reliability
-*(US Patent App. 18/846,052)* (https://patents.google.com/patent/US20250191345A1/en)
-- System and method for quantifying or generating distortion in images *(US Patent App. 18/920,610)* (https://patents.google.com/patent/US20250131769A1/en)
-- Image processing systems and methods *(US Patent App. 18/428,165)* (https://patents.google.com/patent/US20240265677A1/en)
+- [Generating training and/or testing data of a face recognition system for improved reliability (US Patent App. 18/846,052)](https://patents.google.com/patent/US20250191345A1/en)
+- [System and method for quantifying or generating distortion in images (US Patent App. 18/920,610)](https://patents.google.com/patent/US20250131769A1/en)
+- [Image processing systems and methods (US Patent App. 18/428,165)](https://patents.google.com/patent/US20240265677A1/en)
 
 </details>
 
