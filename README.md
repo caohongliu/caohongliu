@@ -24,18 +24,30 @@ My research spans:
 ---
 
 ## 🔍 Research Highlights
+
 <details>
 <summary>Bias & Fairness in AI</summary>
 
-- Travel Bias Benchmark for QA *(To be OpenSourced soon)*
+- [A Human-Centered Persona Brainstorm Audit for Bias and Fairness in Creative Applications (arXiv 2026)](https://arxiv.org/abs/2602.00044)
+- [Enhancing Negation Awareness in Universal Text Embeddings: A Data-efficient and Computational-efficient Approach (ECAI 2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250400584C/abstract)
 - [Writing Style Matters: An Examination of Bias and Fairness in Information Retrieval Systems (WSDM 2025)](https://dl.acm.org/doi/pdf/10.1145/3701551.3703514) (Selected by ACM as featured publications)
-- [Recent advances in text embedding: A Comprehensive Review of Top-Performing Methods on the MTEB Benchmark (arXiv 2024)](https://arxiv.org/abs/2406.01607)
 - [Towards Fair AI: Detecting Socio-Economic Bias in Large Language Models (SophiaSummit 2024)](https://univ-cotedazur.eu/events/sophia-summit/salma-abdou-hongliu-cao)
 - [Inclusive normalization of face images to passport format (IJCNN 2023)](https://arxiv.org/abs/2312.14544)
-- Generating training/testing data for face recognition *(US Patent App. 18/846,052, 2025)*
-- System and method for quantifying or generating distortion in images *(US Patent App. 18/920,610, 2025)*
-- Image processing systems and methods *(US Patent App. 18/428,165, 2024)*
+- Facial recognition systems and methods and associated automated controls (Inclusive generation of Passport-like images) *(European Patent EP 4 411 573 B1, granted 2026)*
+- Travel Bias Benchmark for QA *(To be OpenSourced soon)*
 
+</details>
+
+
+<details>
+<summary>Reliability & Safety</summary>
+- [Beyond Task Completion: Revealing Corrupt Success in LLM Agents through Procedure-Aware Evaluation (ECML-PKDD 2026)](https://arxiv.org/abs/2603.03116)
+- [AgentFailureDiscovery: Open-source toolkit for discovering failure modes in LLM agents (OpenSource 2026)](https://github.com/AmadeusITGroup/AgentFailureDiscovery)
+- From Outcomes to Procedures: The Hidden Failure Modes of AI Agents *(Platform Summit 2026)*
+- Generating training and/or testing data of a face recognition system for improved reliability
+*(US Patent App. 18/846,052)* (https://patents.google.com/patent/US20250191345A1/en)
+- System and method for quantifying or generating distortion in images *(US Patent App. 18/920,610)* (https://patents.google.com/patent/US20250131769A1/en)
+- Image processing systems and methods *(US Patent App. 18/428,165)* (https://patents.google.com/patent/US20240265677A1/en)
 
 </details>
 
@@ -46,10 +58,22 @@ My research spans:
 - [Semantic Adapter for Universal Text Embeddings: Diagnosing and Mitigating Negation Blindness to Enhance Universality (ECAI 2025)](https://arxiv.org/abs/2504.00584)  
 - [Holistic Analysis on the Sustainability of Federated Learning Lifecycle in Real-World Industrial Settings (ECAI 2025)](https://arxiv.org/abs/2312.14628)  
 - [EmbedSelect: AI-Driven Text Embedding Model Selector for Optimal Performance and Efficiency (OpenSource 2025)](https://pypi.org/project/EmbedSelection/)  
+- [Device, system and method for reducing large language model engine usage for sustainable result generation (US Patent App. US20250371273A1, 2025)](https://patents.google.com/patent/US20250371273A1/en)  
+- [Computing Resource Optimization Engine Based on Contextual Linkage in a Knowledge Graph (US Patent App. US20240202266A1, 2024)](https://patents.google.com/patent/US20240202266A1/en)  
 - METHOD AND SYSTEM FOR QUERY PROCESSING BASED ON QUERY COMPLEXITY *(Patent APP, 2025)*  
 - Real-Time & Sustainable Prompt and Chat History Compression *(Patent APP, 2024)*  
 - Explainable and Guided Search for Sustainable and Optimal Travel Solutions *(Patent APP, 2024)*  
 - [Improve the Performance of Transfer Learning Without Fine-Tuning Using Dissimilarity-Based Multi-View Learning for Breast Cancer Histology Images (ICIAR 2018)](https://link.springer.com/chapter/10.1007/978-3-319-93000-8_88)  
+
+</details>
+
+
+<details>
+<summary>Contributions to International Standards (Green Software Foundation)</summary>
+
+- [SCI for AI – Extending the ISO-certified Software Carbon Intensity (SCI) methodology to measure the carbon emissions of AI systems throughout their lifecycle](https://greensoftware.foundation/standards/sci-ai/)  
+- [Software Energy Efficiency (SEE) – A methodology for measuring the energy consumption rate of software systems](https://greensoftware.foundation/standards/see/)  
+- [Software Water Efficiency (SWE) – A standard for measuring, reporting, and reducing the water footprint of software systems](https://greensoftware.foundation/standards/swe/)  
 
 </details>
 
@@ -73,6 +97,8 @@ My research spans:
 <details>
 <summary>AI in Industry</summary>
 
+
+- [Recent advances in text embedding: A Comprehensive Review of Top-Performing Methods on the MTEB Benchmark (arXiv 2024)](https://arxiv.org/abs/2406.01607)
 - [Diverse and Private Synthetic Datasets Generation for RAG Evaluation: A Multi-Agent Framework (ECAI 2025)](https://arxiv.org/abs/2508.18929)  
 - [Multi-Agent LLM Judge: Automatic Personalized LLM Judge Design for Evaluating Natural Language Generation Applications (ECAI 2025)](https://arxiv.org/abs/2504.02867)  
 - [How LLMs Are Changing the Way We Build APIs (Platform Summit 2025)](https://www.youtube.com/watch?v=bcfrPj5r-Jw&list=PLd2MPdlXKO10lBJB3OfoI_7O3OGSVkofI&index=19)  
